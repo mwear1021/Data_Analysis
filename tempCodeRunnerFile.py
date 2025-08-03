@@ -1,1 +1,0 @@
-print(sum(divisible_list))
